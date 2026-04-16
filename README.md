@@ -18,7 +18,6 @@ Contribution
 | Report (Dataset, Data Preprocessing, Discussion and Analysis) | Jun |
 | Report (Methodology, Experiments, Results, Discussion) | Each Model Trainer |
 | Report (Conclusion) | Bryan |
-| Presentation | Jun |
 
 
 ## Setup instructions
